@@ -1,0 +1,88 @@
+﻿body 
+{
+    font-family:Arial;
+    font-size:10pt;
+    color:black;
+}
+
+.myBanner
+{
+    font-family:Tahoma;
+    font-size:20pt;
+    text-align:center;
+    background-color:#ffffc0; /* light yellow */
+    color:#c00000;  /* dark red */
+}
+
+.myHeading
+{
+    font-family:Tahoma;
+    font-weight:bold;
+    font-size:12pt;
+    text-align:left;
+    color:#c00000;  /* dark red */
+}
+
+.mainButton
+{
+    color:white;
+    background-color:#c00000;
+    font-size:10pt;
+}
+
+.para1
+{
+    font-size:12pt;
+    color:#c00000;
+}
+
+.boxstyle
+{
+    border : 1px solid red;
+    background-color : #fffff0;
+}
+
+.gridHeader
+{
+    color:White;
+    background-color:#c05000;  
+    font-family:Tahoma;
+    font-size:10pt;
+    text-align:center;
+}
+
+.gridRow
+{
+    background-color:#fefe99;  
+    font-family:arial;
+    font-size:9pt;
+    text-align:center;
+    padding-top:0;
+    padding-bottom:0;
+    margin-top:0;
+    margin-bottom:0;
+}
+.gridAltRow
+{
+    background-color:#ffffff;  
+    font-family:arial;
+    font-size:9pt;
+    text-align:center;
+    padding-top:0;
+    padding-bottom:0;
+    margin-top:0;
+    margin-bottom:0;
+}
+
+.gridSelectedRow
+{
+    background-color:#90dd90; 
+    color:Red; 
+    font-family:arial;
+    font-size:9pt;
+    text-align:center;
+    padding-top:0;
+    padding-bottom:0;
+    margin-top:0;
+    margin-bottom:0;
+}
